@@ -1,4 +1,4 @@
 # luminosity
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/luminosity/main/loader.lua", true))()
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VoidMasterX/luminosity/main/loader.lua",true))()
 ```
